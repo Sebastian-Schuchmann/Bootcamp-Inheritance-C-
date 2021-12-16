@@ -1,3 +1,24 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿new A().Print();
+new B().Print();
+new C().Print();
 
-Console.WriteLine("Hello, World!");
+public class A
+{
+    public virtual void Print()
+    {
+        Console.WriteLine("A");
+    }
+}
+
+public class B : A
+{
+    public override void Print()
+    {
+        Console.WriteLine("B");
+    }
+}
+
+public class C : A
+{
+    
+}

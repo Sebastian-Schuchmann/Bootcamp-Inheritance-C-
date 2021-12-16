@@ -1,0 +1,15 @@
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.csproj.AssemblyReference.cache
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.AssemblyInfoInputs.cache
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.AssemblyInfo.cs
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.csproj.CoreCompileInputs.cache
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/Shape2
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/Shape2.deps.json
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/Shape2.runtimeconfig.json
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/Shape2.dll
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/ref/Shape2.dll
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/bin/Debug/net6.0/Shape2.pdb
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.dll
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/ref/Shape2.dll
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.pdb
+/Users/seppi/Documents/Bootcamp/Coding Basics/Inheritance/Shape2/obj/Debug/net6.0/Shape2.genruntimeconfig.cache
